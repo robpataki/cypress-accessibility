@@ -1,0 +1,26 @@
+{
+  "autorun": false,
+  "terminals": [
+    {
+      "name": "Next app",
+      "open": true,
+      "commands": [
+        "cd ./"
+      ]
+    },
+    {
+      "name": "Unit tests",
+      "open": true,
+      "commands": [
+        "cd ./"
+      ]
+    },
+    {
+      "name": "E2E tests",
+      "commands": [
+        "cd ./"
+      ],
+      "open": true
+    }
+  ]
+}
